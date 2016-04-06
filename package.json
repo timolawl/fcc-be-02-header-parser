@@ -1,0 +1,31 @@
+{
+  "name": "timolawl-header-parser",
+  "version": "1.0.0",
+  "description": "Header parser  microservice, a Free Code Camp full-stack app.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/timolawl/fcc-header-parser.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "javascript",
+    "freecodecamp",
+    "header parser"
+  ],
+  "author": "Tim Chiang <timolawl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timolawl/fcc-header-parser/issues"
+  },
+  "homepage": "https://github.com/timolawl/fcc-header-parser#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "serve-favicon": "^2.3.0"
+  }
+}
