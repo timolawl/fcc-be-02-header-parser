@@ -5,7 +5,7 @@
   font-family: Inconsolata; }
 
 body {
-  background: #777; }
+  background: #919191; }
 
 a:link {
   color: #ffb03b; }
@@ -25,22 +25,21 @@ a:active {
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 1rem;
-  border: 1px solid black; }
+  border: 1px solid black;
+  background: #777; }
 
 .header-parser--title {
   color: #ffb03b;
   font-weight: bold;
   font-size: 2rem;
   margin-bottom: 1rem;
-  text-align: left;
-  text-indent: none; }
+  text-align: left; }
 
 .header-parser__userstory--title {
   font-weight: bold;
   font-size: 1.4rem;
   margin-bottom: 0.25rem;
   text-align: left;
-  text-indent: none;
   margin-top: 1.5rem; }
 
 .header-parser__userstory--text {
@@ -51,7 +50,6 @@ a:active {
   font-size: 1.4rem;
   margin-bottom: 0.25rem;
   text-align: left;
-  text-indent: none;
   margin-top: 1.5rem; }
 
 .header-parser__exampleusage--text {
@@ -62,7 +60,6 @@ a:active {
   font-size: 1.4rem;
   margin-bottom: 0.25rem;
   text-align: left;
-  text-indent: none;
   margin-top: 1.5rem; }
 
 .header-parser__exampleoutput--text {

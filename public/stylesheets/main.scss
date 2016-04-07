@@ -7,18 +7,18 @@ $background-color: #777;
   font-size: $font-size;
   margin-bottom: $margin-bottom;
   text-align: left;
-  text-indent: none;
 }
 
 *, :before, :after {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-    font-family: Inconsolata;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: Inconsolata;
+
 }
 
 body {
-  background: $background-color; 
+  background: lighten($background-color, 10%);
 }
 
 a {
@@ -43,6 +43,7 @@ a {
   transform: translate(-50%, -50%);
   padding: 1rem;
   border: 1px solid black;
+  background: $background-color;
 }
 
 .header-parser {
