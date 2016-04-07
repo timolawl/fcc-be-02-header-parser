@@ -1,7 +1,7 @@
 {
   "name": "timolawl-header-parser",
   "version": "1.0.0",
-  "description": "Header parser  microservice, a Free Code Camp full-stack app.",
+  "description": "Header parser microservice, a Free Code Camp full-stack app.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
