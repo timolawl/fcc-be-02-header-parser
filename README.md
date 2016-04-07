@@ -12,4 +12,4 @@ Check out the working app here: [https://timolawl-header-parser.herokuapp.com/ap
 * [https://timolawl-header-parser.herokuapp.com/api/whoami](https://timolawl-header-parser.herokuapp.com/api/whoami)
 
 ##### Example output:
-* { "ipaddress": "157.55.39.178", "language": "en-US", "software": "Windows 7" }
+* { "ipaddress": "157.55.39.178", "language": "en-US", "software": "Macintosh", "architecture": "x64" }
